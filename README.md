@@ -1,2 +1,3 @@
 # mastercardersbot
 Projeto do bot master
+Bot criado para ajudar em vendas e administrar grupos, by Taylor...
